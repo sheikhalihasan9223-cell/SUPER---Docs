@@ -1,0 +1,16 @@
+begin;
+select plan(7);
+insert into auth.users(id) values ('11111111-1111-4111-8111-111111111111'), ('22222222-2222-4222-8222-222222222222');
+set local role authenticated;
+set local request.jwt.claims = '{"sub":"11111111-1111-4111-8111-111111111111","role":"authenticated"}';
+select lives_ok($$insert into public.documents(owner_id,id,name,object_path,size_bytes,tool) values ('11111111-1111-4111-8111-111111111111','one','one.pdf','11111111-1111-4111-8111-111111111111/one',3,'Scanner')$$, 'Own document can be saved');
+select is((select count(*)::integer from public.documents),1,'Owner sees own document');
+select throws_ok($$insert into public.documents(owner_id,id,name,object_path,size_bytes,tool) values ('22222222-2222-4222-8222-222222222222','two','two.pdf','22222222-2222-4222-8222-222222222222/two',3,'Scanner')$$,'42501',null,'Cannot insert another owner');
+set local request.jwt.claims = '{"sub":"22222222-2222-4222-8222-222222222222","role":"authenticated"}';
+select is((select count(*)::integer from public.documents),0,'Second account cannot see first account');
+select is((with removed as (delete from public.documents returning id) select count(*)::integer from removed),0,'Second account cannot delete first account');
+select ok(public.claim_processing_request(),'First request allowed');
+select public.claim_processing_request() from generate_series(1,99);
+select is(public.claim_processing_request(),false,'Daily quota blocks request 101');
+select * from finish();
+rollback;

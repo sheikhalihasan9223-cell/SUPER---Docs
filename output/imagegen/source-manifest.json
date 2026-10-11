@@ -1,0 +1,263 @@
+﻿[
+  {
+    "id": "word_pdf",
+    "name": "Word to PDF",
+    "source_path": "C:\\Users\\Ali Hasan\\.codex\\generated_images\\01a11581-4859-76e0-b2a7-5d985748deda\\exec-51b146e8-5fd6-4299-aa57-098a0680d042.png",
+    "prompt": "Use case: stylized-concept. Asset: one premium polished 3D PNG icon for a Flutter document app. The last attached user image is a STYLE REFERENCE: glossy rounded document cards, curled upper-right paper corners, realistic beveled edges, subtle studio highlights and soft contact shadows. PDF cards: white paper, vibrant red curled corner, red elegant PDF ribbon on the upper page and a wide glossy red bottom band with large exact white letters PDF. Any conversion arrow: thick curved cyan-to-blue glossy arrow with a white outline, left-to-right direction. Color palette: red PDF, royal blue Word, orange PowerPoint, emerald green Excel, violet images; blue arrows. Composition: isolated centered landscape icon, all elements fully visible, equal visual scale for source and destination, tight readable icon layout and transparent margins. No background, no tile container, no footer text or UI, no watermark other than one explicitly requested for the Watermark tool. Actual transparent alpha background. SUBJECT: Word to PDF: royal blue Word document with large white W on the left; curved bright blue arrow; white and red PDF document on the right",
+    "generator": "Built-in ImageGen",
+    "transparent_background": true,
+    "reference": "WhatsApp Image 2026-10-07 at 12.46.35 PM.jpeg"
+  },
+  {
+    "id": "ppt_pdf",
+    "name": "PowerPoint to PDF",
+    "source_path": "C:\\Users\\Ali Hasan\\.codex\\generated_images\\01a11581-4859-76e0-b2a7-5d985748deda\\exec-eea8be62-034d-4f40-9a89-a4072cd7d3cf.png",
+    "prompt": "Use case: stylized-concept. Asset: one premium polished 3D PNG icon for a Flutter document app. The last attached user image is a STYLE REFERENCE: glossy rounded document cards, curled upper-right paper corners, realistic beveled edges, subtle studio highlights and soft contact shadows. PDF cards: white paper, vibrant red curled corner, red elegant PDF ribbon on the upper page and a wide glossy red bottom band with large exact white letters PDF. Any conversion arrow: thick curved cyan-to-blue glossy arrow with a white outline, left-to-right direction. Color palette: red PDF, royal blue Word, orange PowerPoint, emerald green Excel, violet images; blue arrows. Composition: isolated centered landscape icon, all elements fully visible, equal visual scale for source and destination, tight readable icon layout and transparent margins. No background, no tile container, no footer text or UI, no watermark other than one explicitly requested for the Watermark tool. Actual transparent alpha background. SUBJECT: PowerPoint to PDF: orange PowerPoint document with large white P on the left; curved bright blue arrow; white and red PDF document on the right",
+    "generator": "Built-in ImageGen",
+    "transparent_background": true,
+    "reference": "WhatsApp Image 2026-10-07 at 12.46.35 PM.jpeg"
+  },
+  {
+    "id": "excel_pdf",
+    "name": "Excel to PDF",
+    "source_path": "C:\\Users\\Ali Hasan\\.codex\\generated_images\\01a11581-4859-76e0-b2a7-5d985748deda\\exec-08ac33ad-5c49-479d-894c-1b97b8dd3ab8.png",
+    "prompt": "Use case: stylized-concept. Asset: one premium polished 3D PNG icon for a Flutter document app. The last attached user image is a STYLE REFERENCE: glossy rounded document cards, curled upper-right paper corners, realistic beveled edges, subtle studio highlights and soft contact shadows. PDF cards: white paper, vibrant red curled corner, red elegant PDF ribbon on the upper page and a wide glossy red bottom band with large exact white letters PDF. Any conversion arrow: thick curved cyan-to-blue glossy arrow with a white outline, left-to-right direction. Color palette: red PDF, royal blue Word, orange PowerPoint, emerald green Excel, violet images; blue arrows. Composition: isolated centered landscape icon, all elements fully visible, equal visual scale for source and destination, tight readable icon layout and transparent margins. No background, no tile container, no footer text or UI, no watermark other than one explicitly requested for the Watermark tool. Actual transparent alpha background. SUBJECT: Excel to PDF: glossy emerald Excel document with white X and spreadsheet grid on the left; curved bright blue arrow; white and red PDF document on the right",
+    "generator": "Built-in ImageGen",
+    "transparent_background": true,
+    "reference": "WhatsApp Image 2026-10-07 at 12.46.35 PM.jpeg"
+  },
+  {
+    "id": "image_pdf",
+    "name": "Image to PDF",
+    "source_path": "C:\\Users\\Ali Hasan\\.codex\\generated_images\\01a11581-4859-76e0-b2a7-5d985748deda\\exec-95a229fb-7b66-48af-8875-d42db479b825.png",
+    "prompt": "Use case: stylized-concept. Asset: one premium polished 3D PNG icon for a Flutter document app. The last attached user image is a STYLE REFERENCE: glossy rounded document cards, curled upper-right paper corners, realistic beveled edges, subtle studio highlights and soft contact shadows. PDF cards: white paper, vibrant red curled corner, red elegant PDF ribbon on the upper page and a wide glossy red bottom band with large exact white letters PDF. Any conversion arrow: thick curved cyan-to-blue glossy arrow with a white outline, left-to-right direction. Color palette: red PDF, royal blue Word, orange PowerPoint, emerald green Excel, violet images; blue arrows. Composition: isolated centered landscape icon, all elements fully visible, equal visual scale for source and destination, tight readable icon layout and transparent margins. No background, no tile container, no footer text or UI, no watermark other than one explicitly requested for the Watermark tool. Actual transparent alpha background. SUBJECT: Image to PDF: glossy purple image document with white mountain and sun pictogram on the left; curved bright blue arrow; white and red PDF document on the right",
+    "generator": "Built-in ImageGen",
+    "transparent_background": true,
+    "reference": "WhatsApp Image 2026-10-07 at 12.46.35 PM.jpeg"
+  },
+  {
+    "id": "pdf_word",
+    "name": "PDF to Word",
+    "source_path": "C:\\Users\\Ali Hasan\\.codex\\generated_images\\01a11581-4859-76e0-b2a7-5d985748deda\\exec-81ea63b4-13ee-4479-82b3-9330ebb7b493.png",
+    "prompt": "Use case: stylized-concept. Asset: one premium polished 3D PNG icon for a Flutter document app. The last attached user image is a STYLE REFERENCE: glossy rounded document cards, curled upper-right paper corners, realistic beveled edges, subtle studio highlights and soft contact shadows. PDF cards: white paper, vibrant red curled corner, red elegant PDF ribbon on the upper page and a wide glossy red bottom band with large exact white letters PDF. Any conversion arrow: thick curved cyan-to-blue glossy arrow with a white outline, left-to-right direction. Color palette: red PDF, royal blue Word, orange PowerPoint, emerald green Excel, violet images; blue arrows. Composition: isolated centered landscape icon, all elements fully visible, equal visual scale for source and destination, tight readable icon layout and transparent margins. No background, no tile container, no footer text or UI, no watermark other than one explicitly requested for the Watermark tool. Actual transparent alpha background. SUBJECT: PDF to Word: white and red PDF document on the left; curved bright blue arrow; glossy royal blue Word document with large white W on the right",
+    "generator": "Built-in ImageGen",
+    "transparent_background": true,
+    "reference": "WhatsApp Image 2026-10-07 at 12.46.35 PM.jpeg"
+  },
+  {
+    "id": "pdf_ppt",
+    "name": "PDF to PowerPoint",
+    "source_path": "C:\\Users\\Ali Hasan\\.codex\\generated_images\\01a11581-4859-76e0-b2a7-5d985748deda\\exec-5b6ba650-6a29-4684-a309-a458083a2b93.png",
+    "prompt": "Use case: stylized-concept. Asset: one premium polished 3D PNG icon for a Flutter document app. The last attached user image is a STYLE REFERENCE: glossy rounded document cards, curled upper-right paper corners, realistic beveled edges, subtle studio highlights and soft contact shadows. PDF cards: white paper, vibrant red curled corner, red elegant PDF ribbon on the upper page and a wide glossy red bottom band with large exact white letters PDF. Any conversion arrow: thick curved cyan-to-blue glossy arrow with a white outline, left-to-right direction. Color palette: red PDF, royal blue Word, orange PowerPoint, emerald green Excel, violet images; blue arrows. Composition: isolated centered landscape icon, all elements fully visible, equal visual scale for source and destination, tight readable icon layout and transparent margins. No background, no tile container, no footer text or UI, no watermark other than one explicitly requested for the Watermark tool. Actual transparent alpha background. SUBJECT: PDF to PowerPoint: white and red PDF document on the left; curved bright blue arrow; glossy orange PowerPoint document with large white P on the right",
+    "generator": "Built-in ImageGen",
+    "transparent_background": true,
+    "reference": "WhatsApp Image 2026-10-07 at 12.46.35 PM.jpeg"
+  },
+  {
+    "id": "pdf_excel",
+    "name": "PDF to Excel",
+    "source_path": "C:\\Users\\Ali Hasan\\.codex\\generated_images\\01a11581-4859-76e0-b2a7-5d985748deda\\exec-5bbb4004-48e5-45f8-b19a-261aa7da0c50.png",
+    "prompt": "Generate one transparent PNG app icon. Use the attached image as STYLE REFERENCE, not an edit target. Subject: PDF to Excel conversion, matching the reference very closely: glossy rounded white PDF paper left, curled vivid red upper right corner, elegant red PDF ribbon and large bold white PDF letters in red bottom band; glossy rounded emerald green Excel document right, green folded corner, raised dark green tile with white X and a small white spreadsheet grid bottom; thick curved cyan to blue arrow sweeping left to right in front, thin white outline. Premium polished 3D product illustration, soft bevels and soft shadows, clean isolated asset, no backdrop, no extra labels. Landscape composition centered with generous transparent margins, both documents equally sized and fully visible. Other supplied screenshot is context only; use the last reference image's glossy 3D artwork. Actual transparent background.",
+    "generator": "Built-in ImageGen",
+    "transparent_background": true,
+    "reference": "WhatsApp Image 2026-10-07 at 12.46.35 PM.jpeg"
+  },
+  {
+    "id": "pdf_jpg",
+    "name": "PDF to JPG",
+    "source_path": "C:\\Users\\Ali Hasan\\.codex\\generated_images\\01a11581-4859-76e0-b2a7-5d985748deda\\exec-97bda22c-9bb2-4549-aca8-f3cae971bb79.png",
+    "prompt": "Use case: stylized-concept. Asset: one premium polished 3D PNG icon for a Flutter document app. The last attached user image is a STYLE REFERENCE: glossy rounded document cards, curled upper-right paper corners, realistic beveled edges, subtle studio highlights and soft contact shadows. PDF cards: white paper, vibrant red curled corner, red elegant PDF ribbon on the upper page and a wide glossy red bottom band with large exact white letters PDF. Any conversion arrow: thick curved cyan-to-blue glossy arrow with a white outline, left-to-right direction. Color palette: red PDF, royal blue Word, orange PowerPoint, emerald green Excel, violet images; blue arrows. Composition: isolated centered landscape icon, all elements fully visible, equal visual scale for source and destination, tight readable icon layout and transparent margins. No background, no tile container, no footer text or UI, no watermark other than one explicitly requested for the Watermark tool. Actual transparent alpha background. SUBJECT: PDF to JPG: white and red PDF document on the left; curved bright blue arrow; glossy purple image document with mountain pictogram and white JPG label on the right",
+    "generator": "Built-in ImageGen",
+    "transparent_background": true,
+    "reference": "WhatsApp Image 2026-10-07 at 12.46.35 PM.jpeg"
+  },
+  {
+    "id": "text",
+    "name": "Extract Text",
+    "source_path": "C:\\Users\\Ali Hasan\\.codex\\generated_images\\01a11581-4859-76e0-b2a7-5d985748deda\\exec-e6489922-d9b1-41fe-b7dc-fd666bc1ebb8.png",
+    "prompt": "Use case: stylized-concept. Asset: one premium polished 3D PNG icon for a Flutter document app. The last attached user image is a STYLE REFERENCE: glossy rounded document cards, curled upper-right paper corners, realistic beveled edges, subtle studio highlights and soft contact shadows. PDF cards: white paper, vibrant red curled corner, red elegant PDF ribbon on the upper page and a wide glossy red bottom band with large exact white letters PDF. Any conversion arrow: thick curved cyan-to-blue glossy arrow with a white outline, left-to-right direction. Color palette: red PDF, royal blue Word, orange PowerPoint, emerald green Excel, violet images; blue arrows. Composition: isolated centered landscape icon, all elements fully visible, equal visual scale for source and destination, tight readable icon layout and transparent margins. No background, no tile container, no footer text or UI, no watermark other than one explicitly requested for the Watermark tool. Actual transparent alpha background. SUBJECT: Extract Text: white and red PDF document on the left; curved bright blue arrow; glossy royal blue text document with embossed white text lines and white TXT label on the right",
+    "generator": "Built-in ImageGen",
+    "transparent_background": true,
+    "reference": "WhatsApp Image 2026-10-07 at 12.46.35 PM.jpeg"
+  },
+  {
+    "id": "image_jpg",
+    "name": "Convert to JPG",
+    "source_path": "C:\\Users\\Ali Hasan\\.codex\\generated_images\\01a11581-4859-76e0-b2a7-5d985748deda\\exec-0db01d80-2e46-4b29-976e-503676f416df.png",
+    "prompt": "Use case: stylized-concept. Asset: one premium polished 3D PNG icon for a Flutter document app. The last attached user image is a STYLE REFERENCE: glossy rounded document cards, curled upper-right paper corners, realistic beveled edges, subtle studio highlights and soft contact shadows. PDF cards: white paper, vibrant red curled corner, red elegant PDF ribbon on the upper page and a wide glossy red bottom band with large exact white letters PDF. Any conversion arrow: thick curved cyan-to-blue glossy arrow with a white outline, left-to-right direction. Color palette: red PDF, royal blue Word, orange PowerPoint, emerald green Excel, violet images; blue arrows. Composition: isolated centered landscape icon, all elements fully visible, equal visual scale for source and destination, tight readable icon layout and transparent margins. No background, no tile container, no footer text or UI, no watermark other than one explicitly requested for the Watermark tool. Actual transparent alpha background. SUBJECT: Convert to JPG: glossy purple image document with mountain pictogram on the left; curved bright blue arrow; purple image document with white JPG label on the right",
+    "generator": "Built-in ImageGen",
+    "transparent_background": true,
+    "reference": "WhatsApp Image 2026-10-07 at 12.46.35 PM.jpeg"
+  },
+  {
+    "id": "image_convert",
+    "name": "Convert from JPG",
+    "source_path": "C:\\Users\\Ali Hasan\\.codex\\generated_images\\01a11581-4859-76e0-b2a7-5d985748deda\\exec-a1d844d9-48ce-4315-b9b1-6b5ecf4c42ab.png",
+    "prompt": "Use case: stylized-concept. Asset: one premium polished 3D PNG icon for a Flutter document app. The last attached user image is a STYLE REFERENCE: glossy rounded document cards, curled upper-right paper corners, realistic beveled edges, subtle studio highlights and soft contact shadows. PDF cards: white paper, vibrant red curled corner, red elegant PDF ribbon on the upper page and a wide glossy red bottom band with large exact white letters PDF. Any conversion arrow: thick curved cyan-to-blue glossy arrow with a white outline, left-to-right direction. Color palette: red PDF, royal blue Word, orange PowerPoint, emerald green Excel, violet images; blue arrows. Composition: isolated centered landscape icon, all elements fully visible, equal visual scale for source and destination, tight readable icon layout and transparent margins. No background, no tile container, no footer text or UI, no watermark other than one explicitly requested for the Watermark tool. Actual transparent alpha background. SUBJECT: Convert from JPG: glossy purple JPG image document on the left; curved bright blue arrow; glossy violet image document with white PNG label on the right",
+    "generator": "Built-in ImageGen",
+    "transparent_background": true,
+    "reference": "WhatsApp Image 2026-10-07 at 12.46.35 PM.jpeg"
+  },
+  {
+    "id": "merge",
+    "name": "Merge PDF",
+    "source_path": "C:\\Users\\Ali Hasan\\.codex\\generated_images\\01a11581-4859-76e0-b2a7-5d985748deda\\exec-30ed2427-5ab2-4ffa-9329-8c589fa43738.png",
+    "prompt": "Use case: stylized-concept. Asset: one premium polished 3D PNG icon for a Flutter document app. The last attached user image is a STYLE REFERENCE: glossy rounded document cards, curled upper-right paper corners, realistic beveled edges, subtle studio highlights and soft contact shadows. PDF cards: white paper, vibrant red curled corner, red elegant PDF ribbon on the upper page and a wide glossy red bottom band with large exact white letters PDF. Any conversion arrow: thick curved cyan-to-blue glossy arrow with a white outline, left-to-right direction. Color palette: red PDF, royal blue Word, orange PowerPoint, emerald green Excel, violet images; blue arrows. Composition: isolated centered landscape icon, all elements fully visible, equal visual scale for source and destination, tight readable icon layout and transparent margins. No background, no tile container, no footer text or UI, no watermark other than one explicitly requested for the Watermark tool. Actual transparent alpha background. SUBJECT: Merge PDF: two smaller white and red PDF documents on the left converging through a bright blue merging arrow into one large white and red PDF document on the right",
+    "generator": "Built-in ImageGen",
+    "transparent_background": true,
+    "reference": "WhatsApp Image 2026-10-07 at 12.46.35 PM.jpeg"
+  },
+  {
+    "id": "split",
+    "name": "Split PDF",
+    "source_path": "C:\\Users\\Ali Hasan\\.codex\\generated_images\\01a11581-4859-76e0-b2a7-5d985748deda\\exec-72bdd871-7e43-4654-8f34-73d26e4e7634.png",
+    "prompt": "Use case: stylized-concept. Asset: one premium polished 3D PNG icon for a Flutter document app. The last attached user image is a STYLE REFERENCE: glossy rounded document cards, curled upper-right paper corners, realistic beveled edges, subtle studio highlights and soft contact shadows. PDF cards: white paper, vibrant red curled corner, red elegant PDF ribbon on the upper page and a wide glossy red bottom band with large exact white letters PDF. Any conversion arrow: thick curved cyan-to-blue glossy arrow with a white outline, left-to-right direction. Color palette: red PDF, royal blue Word, orange PowerPoint, emerald green Excel, violet images; blue arrows. Composition: isolated centered landscape icon, all elements fully visible, equal visual scale for source and destination, tight readable icon layout and transparent margins. No background, no tile container, no footer text or UI, no watermark other than one explicitly requested for the Watermark tool. Actual transparent alpha background. SUBJECT: Split PDF: one white and red PDF document on the left splitting through a bright blue branching arrow into two smaller separate PDF documents on the right",
+    "generator": "Built-in ImageGen",
+    "transparent_background": true,
+    "reference": "WhatsApp Image 2026-10-07 at 12.46.35 PM.jpeg"
+  },
+  {
+    "id": "organize",
+    "name": "Organize PDF",
+    "source_path": "C:\\Users\\Ali Hasan\\.codex\\generated_images\\01a11581-4859-76e0-b2a7-5d985748deda\\exec-59d72d08-72f9-43ae-ad92-2e7d79e73f56.png",
+    "prompt": "Use case: stylized-concept. Asset: one premium polished 3D PNG icon for a Flutter document app. The last attached user image is a STYLE REFERENCE: glossy rounded document cards, curled upper-right paper corners, realistic beveled edges, subtle studio highlights and soft contact shadows. PDF cards: white paper, vibrant red curled corner, red elegant PDF ribbon on the upper page and a wide glossy red bottom band with large exact white letters PDF. Any conversion arrow: thick curved cyan-to-blue glossy arrow with a white outline, left-to-right direction. Color palette: red PDF, royal blue Word, orange PowerPoint, emerald green Excel, violet images; blue arrows. Composition: isolated centered landscape icon, all elements fully visible, equal visual scale for source and destination, tight readable icon layout and transparent margins. No background, no tile container, no footer text or UI, no watermark other than one explicitly requested for the Watermark tool. Actual transparent alpha background. SUBJECT: Organize PDF: three staggered glossy white and red PDF page cards with clear raised purple page-order numerals 1, 2, 3 and a small curved bright blue reordering arrow",
+    "generator": "Built-in ImageGen",
+    "transparent_background": true,
+    "reference": "WhatsApp Image 2026-10-07 at 12.46.35 PM.jpeg"
+  },
+  {
+    "id": "rotate",
+    "name": "Rotate PDF",
+    "source_path": "C:\\Users\\Ali Hasan\\.codex\\generated_images\\01a11581-4859-76e0-b2a7-5d985748deda\\exec-9217cae3-b304-48ef-9e6b-ad7b88771fa1.png",
+    "prompt": "Use case: stylized-concept. Asset: one premium polished 3D PNG icon for a Flutter document app. The last attached user image is a STYLE REFERENCE: glossy rounded document cards, curled upper-right paper corners, realistic beveled edges, subtle studio highlights and soft contact shadows. PDF cards: white paper, vibrant red curled corner, red elegant PDF ribbon on the upper page and a wide glossy red bottom band with large exact white letters PDF. Any conversion arrow: thick curved cyan-to-blue glossy arrow with a white outline, left-to-right direction. Color palette: red PDF, royal blue Word, orange PowerPoint, emerald green Excel, violet images; blue arrows. Composition: isolated centered landscape icon, all elements fully visible, equal visual scale for source and destination, tight readable icon layout and transparent margins. No background, no tile container, no footer text or UI, no watermark other than one explicitly requested for the Watermark tool. Actual transparent alpha background. SUBJECT: Rotate PDF: one glossy white and red PDF document with a thick bright blue clockwise circular arrow curving around its right side, indicating page rotation",
+    "generator": "Built-in ImageGen",
+    "transparent_background": true,
+    "reference": "WhatsApp Image 2026-10-07 at 12.46.35 PM.jpeg"
+  },
+  {
+    "id": "extract",
+    "name": "Extract Pages",
+    "source_path": "C:\\Users\\Ali Hasan\\.codex\\generated_images\\01a11581-4859-76e0-b2a7-5d985748deda\\exec-be58688c-f291-4b9e-a4c4-58c5d4e27870.png",
+    "prompt": "Use case: stylized-concept. Asset: one premium polished 3D PNG icon for a Flutter document app. The last attached user image is a STYLE REFERENCE: glossy rounded document cards, curled upper-right paper corners, realistic beveled edges, subtle studio highlights and soft contact shadows. PDF cards: white paper, vibrant red curled corner, red elegant PDF ribbon on the upper page and a wide glossy red bottom band with large exact white letters PDF. Any conversion arrow: thick curved cyan-to-blue glossy arrow with a white outline, left-to-right direction. Color palette: red PDF, royal blue Word, orange PowerPoint, emerald green Excel, violet images; blue arrows. Composition: isolated centered landscape icon, all elements fully visible, equal visual scale for source and destination, tight readable icon layout and transparent margins. No background, no tile container, no footer text or UI, no watermark other than one explicitly requested for the Watermark tool. Actual transparent alpha background. SUBJECT: Extract Pages: a small stack of glossy white and red PDF documents on the left; one page being pulled toward the right through a bright blue arrow, one separate PDF page on the right",
+    "generator": "Built-in ImageGen",
+    "transparent_background": true,
+    "reference": "WhatsApp Image 2026-10-07 at 12.46.35 PM.jpeg"
+  },
+  {
+    "id": "compress",
+    "name": "Compress PDF",
+    "source_path": "C:\\Users\\Ali Hasan\\.codex\\generated_images\\01a11581-4859-76e0-b2a7-5d985748deda\\exec-d1b195e9-471e-492c-b07b-d76726fb73ef.png",
+    "prompt": "Use case: stylized-concept. Asset: one premium polished 3D PNG icon for a Flutter document app. The last attached user image is a STYLE REFERENCE: glossy rounded document cards, curled upper-right paper corners, realistic beveled edges, subtle studio highlights and soft contact shadows. PDF cards: white paper, vibrant red curled corner, red elegant PDF ribbon on the upper page and a wide glossy red bottom band with large exact white letters PDF. Any conversion arrow: thick curved cyan-to-blue glossy arrow with a white outline, left-to-right direction. Color palette: red PDF, royal blue Word, orange PowerPoint, emerald green Excel, violet images; blue arrows. Composition: isolated centered landscape icon, all elements fully visible, equal visual scale for source and destination, tight readable icon layout and transparent margins. No background, no tile container, no footer text or UI, no watermark other than one explicitly requested for the Watermark tool. Actual transparent alpha background. SUBJECT: Compress PDF: one large glossy white and red PDF document on the left; bright blue arrow; one noticeably smaller PDF document on the right, with two small blue inward compression chevrons",
+    "generator": "Built-in ImageGen",
+    "transparent_background": true,
+    "reference": "WhatsApp Image 2026-10-07 at 12.46.35 PM.jpeg"
+  },
+  {
+    "id": "repair",
+    "name": "Repair PDF",
+    "source_path": "C:\\Users\\Ali Hasan\\.codex\\generated_images\\01a11581-4859-76e0-b2a7-5d985748deda\\exec-235402ad-71db-4bf0-b4b9-84a0b3d3a2a8.png",
+    "prompt": "Use case: stylized-concept. Asset: one premium polished 3D PNG icon for a Flutter document app. The last attached user image is a STYLE REFERENCE: glossy rounded document cards, curled upper-right paper corners, realistic beveled edges, subtle studio highlights and soft contact shadows. PDF cards: white paper, vibrant red curled corner, red elegant PDF ribbon on the upper page and a wide glossy red bottom band with large exact white letters PDF. Any conversion arrow: thick curved cyan-to-blue glossy arrow with a white outline, left-to-right direction. Color palette: red PDF, royal blue Word, orange PowerPoint, emerald green Excel, violet images; blue arrows. Composition: isolated centered landscape icon, all elements fully visible, equal visual scale for source and destination, tight readable icon layout and transparent margins. No background, no tile container, no footer text or UI, no watermark other than one explicitly requested for the Watermark tool. Actual transparent alpha background. SUBJECT: Repair PDF: one glossy white and red PDF document with a raised blue and purple wrench resting diagonally in front, repair symbol, clean undamaged polished paper",
+    "generator": "Built-in ImageGen",
+    "transparent_background": true,
+    "reference": "WhatsApp Image 2026-10-07 at 12.46.35 PM.jpeg"
+  },
+  {
+    "id": "ocr",
+    "name": "OCR PDF",
+    "source_path": "C:\\Users\\Ali Hasan\\.codex\\generated_images\\01a11581-4859-76e0-b2a7-5d985748deda\\exec-b42baf39-1382-4af9-8921-a7465da217bf.png",
+    "prompt": "Use case: stylized-concept. Asset: one premium polished 3D PNG icon for a Flutter document app. The last attached user image is a STYLE REFERENCE: glossy rounded document cards, curled upper-right paper corners, realistic beveled edges, subtle studio highlights and soft contact shadows. PDF cards: white paper, vibrant red curled corner, red elegant PDF ribbon on the upper page and a wide glossy red bottom band with large exact white letters PDF. Any conversion arrow: thick curved cyan-to-blue glossy arrow with a white outline, left-to-right direction. Color palette: red PDF, royal blue Word, orange PowerPoint, emerald green Excel, violet images; blue arrows. Composition: isolated centered landscape icon, all elements fully visible, equal visual scale for source and destination, tight readable icon layout and transparent margins. No background, no tile container, no footer text or UI, no watermark other than one explicitly requested for the Watermark tool. Actual transparent alpha background. SUBJECT: OCR PDF: one glossy white and red PDF document with a raised violet scanning frame and readable raised dark blue letters Aa in front, implying scanned text recognition",
+    "generator": "Built-in ImageGen",
+    "transparent_background": true,
+    "reference": "WhatsApp Image 2026-10-07 at 12.46.35 PM.jpeg"
+  },
+  {
+    "id": "create",
+    "name": "Create PDF",
+    "source_path": "C:\\Users\\Ali Hasan\\.codex\\generated_images\\01a11581-4859-76e0-b2a7-5d985748deda\\exec-f4323528-c525-46e7-9b3d-661d76d19671.png",
+    "prompt": "Use case: stylized-concept. Asset: one premium polished 3D PNG icon for a Flutter document app. The last attached user image is a STYLE REFERENCE: glossy rounded document cards, curled upper-right paper corners, realistic beveled edges, subtle studio highlights and soft contact shadows. PDF cards: white paper, vibrant red curled corner, red elegant PDF ribbon on the upper page and a wide glossy red bottom band with large exact white letters PDF. Any conversion arrow: thick curved cyan-to-blue glossy arrow with a white outline, left-to-right direction. Color palette: red PDF, royal blue Word, orange PowerPoint, emerald green Excel, violet images; blue arrows. Composition: isolated centered landscape icon, all elements fully visible, equal visual scale for source and destination, tight readable icon layout and transparent margins. No background, no tile container, no footer text or UI, no watermark other than one explicitly requested for the Watermark tool. Actual transparent alpha background. SUBJECT: Create PDF: one glossy white and red PDF document with a large raised violet circular plus badge in the lower right foreground",
+    "generator": "Built-in ImageGen",
+    "transparent_background": true,
+    "reference": "WhatsApp Image 2026-10-07 at 12.46.35 PM.jpeg"
+  },
+  {
+    "id": "edit",
+    "name": "Edit PDF",
+    "source_path": "C:\\Users\\Ali Hasan\\.codex\\generated_images\\01a11581-4859-76e0-b2a7-5d985748deda\\exec-ef6af621-a963-4594-ae6b-72470be170a3.png",
+    "prompt": "Use case: stylized-concept. Asset: one premium polished 3D PNG icon for a Flutter document app. The last attached user image is a STYLE REFERENCE: glossy rounded document cards, curled upper-right paper corners, realistic beveled edges, subtle studio highlights and soft contact shadows. PDF cards: white paper, vibrant red curled corner, red elegant PDF ribbon on the upper page and a wide glossy red bottom band with large exact white letters PDF. Any conversion arrow: thick curved cyan-to-blue glossy arrow with a white outline, left-to-right direction. Color palette: red PDF, royal blue Word, orange PowerPoint, emerald green Excel, violet images; blue arrows. Composition: isolated centered landscape icon, all elements fully visible, equal visual scale for source and destination, tight readable icon layout and transparent margins. No background, no tile container, no footer text or UI, no watermark other than one explicitly requested for the Watermark tool. Actual transparent alpha background. SUBJECT: Edit PDF: one glossy white and red PDF document with a large glossy violet pencil diagonally in the lower right foreground, clear editing symbol",
+    "generator": "Built-in ImageGen",
+    "transparent_background": true,
+    "reference": "WhatsApp Image 2026-10-07 at 12.46.35 PM.jpeg"
+  },
+  {
+    "id": "numbers",
+    "name": "Page Numbers",
+    "source_path": "C:\\Users\\Ali Hasan\\.codex\\generated_images\\01a11581-4859-76e0-b2a7-5d985748deda\\exec-99f9156a-c9f0-4090-9b34-0dcfbd3bafef.png",
+    "prompt": "Use case: stylized-concept. Asset: one premium polished 3D PNG icon for a Flutter document app. The last attached user image is a STYLE REFERENCE: glossy rounded document cards, curled upper-right paper corners, realistic beveled edges, subtle studio highlights and soft contact shadows. PDF cards: white paper, vibrant red curled corner, red elegant PDF ribbon on the upper page and a wide glossy red bottom band with large exact white letters PDF. Any conversion arrow: thick curved cyan-to-blue glossy arrow with a white outline, left-to-right direction. Color palette: red PDF, royal blue Word, orange PowerPoint, emerald green Excel, violet images; blue arrows. Composition: isolated centered landscape icon, all elements fully visible, equal visual scale for source and destination, tight readable icon layout and transparent margins. No background, no tile container, no footer text or UI, no watermark other than one explicitly requested for the Watermark tool. Actual transparent alpha background. SUBJECT: Page Numbers: a tidy stack of three glossy white and red PDF documents, small raised violet circular page badges 1, 2, 3 on their lower corners",
+    "generator": "Built-in ImageGen",
+    "transparent_background": true,
+    "reference": "WhatsApp Image 2026-10-07 at 12.46.35 PM.jpeg"
+  },
+  {
+    "id": "watermark",
+    "name": "Watermark",
+    "source_path": "C:\\Users\\Ali Hasan\\.codex\\generated_images\\01a11581-4859-76e0-b2a7-5d985748deda\\exec-d4e80b0f-dfe2-4e20-9946-35a9c153ea81.png",
+    "prompt": "Use case: stylized-concept. Asset: one premium polished 3D PNG icon for a Flutter document app. The last attached user image is a STYLE REFERENCE: glossy rounded document cards, curled upper-right paper corners, realistic beveled edges, subtle studio highlights and soft contact shadows. PDF cards: white paper, vibrant red curled corner, red elegant PDF ribbon on the upper page and a wide glossy red bottom band with large exact white letters PDF. Any conversion arrow: thick curved cyan-to-blue glossy arrow with a white outline, left-to-right direction. Color palette: red PDF, royal blue Word, orange PowerPoint, emerald green Excel, violet images; blue arrows. Composition: isolated centered landscape icon, all elements fully visible, equal visual scale for source and destination, tight readable icon layout and transparent margins. No background, no tile container, no footer text or UI, no watermark other than one explicitly requested for the Watermark tool. Actual transparent alpha background. SUBJECT: Watermark: one glossy white and red PDF document with a translucent diagonal purple DRAFT watermark and a small glossy violet rubber stamp in front",
+    "generator": "Built-in ImageGen",
+    "transparent_background": true,
+    "reference": "WhatsApp Image 2026-10-07 at 12.46.35 PM.jpeg"
+  },
+  {
+    "id": "sign",
+    "name": "Sign PDF",
+    "source_path": "C:\\Users\\Ali Hasan\\.codex\\generated_images\\01a11581-4859-76e0-b2a7-5d985748deda\\exec-f60ecdc1-c006-4982-bba9-3456fd271681.png",
+    "prompt": "Use case: stylized-concept. Asset: one premium polished 3D PNG icon for a Flutter document app. The last attached user image is a STYLE REFERENCE: glossy rounded document cards, curled upper-right paper corners, realistic beveled edges, subtle studio highlights and soft contact shadows. PDF cards: white paper, vibrant red curled corner, red elegant PDF ribbon on the upper page and a wide glossy red bottom band with large exact white letters PDF. Any conversion arrow: thick curved cyan-to-blue glossy arrow with a white outline, left-to-right direction. Color palette: red PDF, royal blue Word, orange PowerPoint, emerald green Excel, violet images; blue arrows. Composition: isolated centered landscape icon, all elements fully visible, equal visual scale for source and destination, tight readable icon layout and transparent margins. No background, no tile container, no footer text or UI, no watermark other than one explicitly requested for the Watermark tool. Actual transparent alpha background. SUBJECT: Sign PDF: one glossy white and red PDF document with an elegant dark blue handwritten signature stroke and a glossy blue fountain pen in the foreground",
+    "generator": "Built-in ImageGen",
+    "transparent_background": true,
+    "reference": "WhatsApp Image 2026-10-07 at 12.46.35 PM.jpeg"
+  },
+  {
+    "id": "protect",
+    "name": "Protect PDF",
+    "source_path": "C:\\Users\\Ali Hasan\\.codex\\generated_images\\01a11581-4859-76e0-b2a7-5d985748deda\\exec-f37378f1-f31b-4e61-95ca-6d3b09bf06a9.png",
+    "prompt": "Use case: stylized-concept. Asset: one premium polished 3D PNG icon for a Flutter document app. The last attached user image is a STYLE REFERENCE: glossy rounded document cards, curled upper-right paper corners, realistic beveled edges, subtle studio highlights and soft contact shadows. PDF cards: white paper, vibrant red curled corner, red elegant PDF ribbon on the upper page and a wide glossy red bottom band with large exact white letters PDF. Any conversion arrow: thick curved cyan-to-blue glossy arrow with a white outline, left-to-right direction. Color palette: red PDF, royal blue Word, orange PowerPoint, emerald green Excel, violet images; blue arrows. Composition: isolated centered landscape icon, all elements fully visible, equal visual scale for source and destination, tight readable icon layout and transparent margins. No background, no tile container, no footer text or UI, no watermark other than one explicitly requested for the Watermark tool. Actual transparent alpha background. SUBJECT: Protect PDF: one glossy white and red PDF document with a large closed glossy purple and gold padlock in the lower right foreground",
+    "generator": "Built-in ImageGen",
+    "transparent_background": true,
+    "reference": "WhatsApp Image 2026-10-07 at 12.46.35 PM.jpeg"
+  },
+  {
+    "id": "unlock",
+    "name": "Unlock PDF",
+    "source_path": "C:\\Users\\Ali Hasan\\.codex\\generated_images\\01a11581-4859-76e0-b2a7-5d985748deda\\exec-7b8f9cca-de57-4467-bf10-3e3300005327.png",
+    "prompt": "Use case: stylized-concept. Asset: one premium polished 3D PNG icon for a Flutter document app. The last attached user image is a STYLE REFERENCE: glossy rounded document cards, curled upper-right paper corners, realistic beveled edges, subtle studio highlights and soft contact shadows. PDF cards: white paper, vibrant red curled corner, red elegant PDF ribbon on the upper page and a wide glossy red bottom band with large exact white letters PDF. Any conversion arrow: thick curved cyan-to-blue glossy arrow with a white outline, left-to-right direction. Color palette: red PDF, royal blue Word, orange PowerPoint, emerald green Excel, violet images; blue arrows. Composition: isolated centered landscape icon, all elements fully visible, equal visual scale for source and destination, tight readable icon layout and transparent margins. No background, no tile container, no footer text or UI, no watermark other than one explicitly requested for the Watermark tool. Actual transparent alpha background. SUBJECT: Unlock PDF: one glossy white and red PDF document with a large open glossy purple and gold padlock in the lower right foreground, clearly open shackle",
+    "generator": "Built-in ImageGen",
+    "transparent_background": true,
+    "reference": "WhatsApp Image 2026-10-07 at 12.46.35 PM.jpeg"
+  },
+  {
+    "id": "image_compress",
+    "name": "Compress Image",
+    "source_path": "C:\\Users\\Ali Hasan\\.codex\\generated_images\\01a11581-4859-76e0-b2a7-5d985748deda\\exec-865a5dff-96a5-4098-87d0-ef8127da0e33.png",
+    "prompt": "Use case: stylized-concept. Asset: one premium polished 3D PNG icon for a Flutter document app. The last attached user image is a STYLE REFERENCE: glossy rounded document cards, curled upper-right paper corners, realistic beveled edges, subtle studio highlights and soft contact shadows. PDF cards: white paper, vibrant red curled corner, red elegant PDF ribbon on the upper page and a wide glossy red bottom band with large exact white letters PDF. Any conversion arrow: thick curved cyan-to-blue glossy arrow with a white outline, left-to-right direction. Color palette: red PDF, royal blue Word, orange PowerPoint, emerald green Excel, violet images; blue arrows. Composition: isolated centered landscape icon, all elements fully visible, equal visual scale for source and destination, tight readable icon layout and transparent margins. No background, no tile container, no footer text or UI, no watermark other than one explicitly requested for the Watermark tool. Actual transparent alpha background. SUBJECT: Compress Image: one large glossy violet image document with mountain pictogram on the left; curved bright blue arrow; one smaller violet image document on the right, implying size reduction",
+    "generator": "Built-in ImageGen",
+    "transparent_background": true,
+    "reference": "WhatsApp Image 2026-10-07 at 12.46.35 PM.jpeg"
+  },
+  {
+    "id": "image_resize",
+    "name": "Resize Image",
+    "source_path": "C:\\Users\\Ali Hasan\\.codex\\generated_images\\01a11581-4859-76e0-b2a7-5d985748deda\\exec-89d3af58-bdd7-48f0-bb95-8f885a25da50.png",
+    "prompt": "Use case: stylized-concept. Asset: one premium polished 3D PNG icon for a Flutter document app. The last attached user image is a STYLE REFERENCE: glossy rounded document cards, curled upper-right paper corners, realistic beveled edges, subtle studio highlights and soft contact shadows. PDF cards: white paper, vibrant red curled corner, red elegant PDF ribbon on the upper page and a wide glossy red bottom band with large exact white letters PDF. Any conversion arrow: thick curved cyan-to-blue glossy arrow with a white outline, left-to-right direction. Color palette: red PDF, royal blue Word, orange PowerPoint, emerald green Excel, violet images; blue arrows. Composition: isolated centered landscape icon, all elements fully visible, equal visual scale for source and destination, tight readable icon layout and transparent margins. No background, no tile container, no footer text or UI, no watermark other than one explicitly requested for the Watermark tool. Actual transparent alpha background. SUBJECT: Resize Image: one glossy purple image document with white mountain pictogram surrounded by a bright blue corner resize frame and opposing diagonal blue size arrows",
+    "generator": "Built-in ImageGen",
+    "transparent_background": true,
+    "reference": "WhatsApp Image 2026-10-07 at 12.46.35 PM.jpeg"
+  },
+  {
+    "id": "scanner",
+    "name": "Scanner",
+    "source_path": "C:\\Users\\Ali Hasan\\.codex\\generated_images\\01a11581-4859-76e0-b2a7-5d985748deda\\exec-fcfde163-43a3-48ac-ba02-43673b56b8e5.png",
+    "prompt": "Use case: stylized-concept. Asset: one premium polished 3D PNG icon for a Flutter document app. The last attached user image is a STYLE REFERENCE: glossy rounded document cards, curled upper-right paper corners, realistic beveled edges, subtle studio highlights and soft contact shadows. PDF cards: white paper, vibrant red curled corner, red elegant PDF ribbon on the upper page and a wide glossy red bottom band with large exact white letters PDF. Any conversion arrow: thick curved cyan-to-blue glossy arrow with a white outline, left-to-right direction. Color palette: red PDF, royal blue Word, orange PowerPoint, emerald green Excel, violet images; blue arrows. Composition: isolated centered landscape icon, all elements fully visible, equal visual scale for source and destination, tight readable icon layout and transparent margins. No background, no tile container, no footer text or UI, no watermark other than one explicitly requested for the Watermark tool. Actual transparent alpha background. SUBJECT: Scanner: one glossy white paper document inside a raised purple four-corner scanning frame, a bright blue scanning beam crossing the document, small white and red PDF badge",
+    "generator": "Built-in ImageGen",
+    "transparent_background": true,
+    "reference": "WhatsApp Image 2026-10-07 at 12.46.35 PM.jpeg"
+  }
+]
